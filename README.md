@@ -38,6 +38,7 @@ También disfruto aportar en el lado frontend con **React, Next.js, HTML y CSS**
 ## 📌 Proyectos Destacados
 
 ### 🔹 [TrainUp](https://github.com/NicoleMCardenas/TrainUpBack)
+Deploy: https://front-amber-tau.vercel.app/
 Plataforma fitness & wellness que conecta gimnasios, entrenadores y miembros.  
 Permite **gestionar suscripciones, clases, pagos y recordatorios automáticos**.  
 - Roles de usuario: miembro, entrenador, admin.  
