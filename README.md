@@ -49,7 +49,6 @@ Permite **gestionar suscripciones, clases, pagos y recordatorios automáticos**.
 ---
 
 ### 🔹 [E-commerce](https://github.com/NicoleMCardenas/e-commerce)
-Deploy: https://madre-aroma.vercel.app/
 Tienda online fullstack que gestiona productos, carrito y pagos.  
 - Catálogo de productos y filtrado por categorías.  
 - Carrito dinámico con checkout seguro.  
@@ -59,6 +58,7 @@ Tienda online fullstack que gestiona productos, carrito y pagos.
 ---
 
 ### 🔹 [MadreAroma-FullStack (Reservas de Usuarios y Registros)](#)
+Deploy: https://madre-aroma.vercel.app/
 Aplicación integral para gestión de proyectos.  
 - Creación y administración de proyectos y tareas.  
 - Asignación de usuarios y roles.  
