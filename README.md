@@ -49,6 +49,7 @@ Permite **gestionar suscripciones, clases, pagos y recordatorios automáticos**.
 ---
 
 ### 🔹 [E-commerce](https://github.com/NicoleMCardenas/e-commerce)
+Deploy: madre-aroma.vercel.app
 Tienda online fullstack que gestiona productos, carrito y pagos.  
 - Catálogo de productos y filtrado por categorías.  
 - Carrito dinámico con checkout seguro.  
