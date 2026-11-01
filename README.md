@@ -36,7 +36,24 @@ También disfruto aportar en el lado frontend con **React, Next.js, HTML y CSS**
 ---
 
 ## 📌 Proyectos Destacados
+### 🔷 [KAIRO](https://github.com/NicoleMCardenas/pvip-backend)
 
+**Demo:** https://kairo-ten-tau.vercel.app/login
+
+Plataforma full stack de **Customer Intelligence y gestión de postventa**, diseñada para centralizar información de clientes, analizar su experiencia y apoyar decisiones de negocio basadas en datos.
+
+- **Backend:** Python, FastAPI, PostgreSQL, SQLAlchemy y Alembic.
+- **Frontend:** Next.js, React, TypeScript y Tailwind CSS.
+- **Funcionalidades:** gestión de clientes, encuestas de satisfacción, segmentación, retención y recuperación de ingresos.
+- **Seguridad:** autenticación, control de acceso por roles y demo pública de solo lectura.
+- **Infraestructura:** Docker, Vercel, Render y Supabase.
+- **Interfaz bilingüe:** español e inglés.
+
+**Demo disponible sin registro, con datos ficticios.**
+
+**Repositorios:** [Backend](https://github.com/NicoleMCardenas/pvip-backend) · [Frontend](https://github.com/NicoleMCardenas/pvip-frontend)
+
+---
 ### 🔹 [TrainUp](https://github.com/NicoleMCardenas/TrainUpBack)
 Deploy: https://front-amber-tau.vercel.app/
 Plataforma fitness & wellness que conecta gimnasios, entrenadores y miembros.  
